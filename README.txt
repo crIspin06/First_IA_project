@@ -4,7 +4,6 @@
         Ativar ambiente virtual: "  .\venv\Scripts\activate  "
         Desativar ambiente virtual: "  deactivate  "
         
-    Ferramentas:
     comando pra instalar: pip install <biblioteca>
         Bibliotecas: 
             sentence-transformers
