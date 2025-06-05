@@ -10,9 +10,10 @@
             sentence-transformers
         
 
-    Objetivos Atuais:
+    Objetivos:
         Interpretar o texto
 
+        Treinar um modelo tipo "Siamese Network"
 
         Incrementar a transcricaoo de audio
         
