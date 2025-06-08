@@ -5,15 +5,10 @@ def mostrar_hora():
     from datetime import datetime
     print("⏰ Agora são", datetime.now().strftime("%H:%M"))
 
-def mostrar_temperatura():
-    print("🌡️ A temperatura é de 25°C (exemplo).")
-
-
 #Dicionário de ações possíveis
 acoes = {
     "ligue a luz": ligar_luz,
-    "que horas são?": mostrar_hora,
-    "qual é a temperatura?": mostrar_temperatura
+    "que horas são?": mostrar_hora
 }
 
 #Dicionário de parâmetros possíveis
